@@ -1,3 +1,6 @@
+// O Bytebank é um projeto em Kotlin que simula um banco de dados digital.
+// Funcionalidades: Criar contas; Depositar e sacar dinheiro; Transferir dinheiro entre as contas
+
 fun main(){
     println("Bem vindo ao Banco ByteBank")
 
